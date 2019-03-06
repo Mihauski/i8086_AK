@@ -1,0 +1,15 @@
+cn1 isz dn1 isz en1 ios fn1 ios gn1 isz an1 isz hn1 isz cn2 isz pau isz
+cn2 isz dn2 isz en2 isz fn2 isz gn2 isz an2 isz hn2 isz cn3 isz pau isz
+cn3 isz dn3 isz en3 isz fn3 isz gn3 isz an3 isz hn3 isz cn4 isz pau isz
+cn4 isz dn4 isz en4 isz fn4 isz gn4 isz an4 isz hn4 isz cn5 isz pau isz
+cn5 isz dn5 isz en5 isz fn5 isz gn5 isz an5 isz hn5 isz cn6 isz pau isz
+cn6 isz dn6 isz en6 isz fn6 isz gn6 isz an6 isz hn6 isz cn7 isz pau isz
+cn7 isz dn7 isz en7 isz fn7 isz gn7 isz an7 isz hn7 isz cn7 isz pau isz
+
+ci1 isz di1 isz ei1 isz fi1 isz gi1 isz ai1 isz hi1 isz pau isz
+ci2 isz di2 isz ei2 isz fi2 isz gi2 isz ai2 isz hi2 isz pau isz
+ci3 isz di3 isz ei3 isz fi3 isz gi3 isz ai3 isz hi3 isz pau isz
+ci4 isz di4 isz ei4 isz fi4 isz gi4 isz ai4 isz hi4 isz pau isz
+ci5 isz di5 isz ei5 isz fi5 isz gi5 isz ai5 isz hi5 isz pau isz
+ci6 isz di6 isz ei6 isz fi6 isz gi6 isz ai6 isz hi6 isz pau isz
+ci7 isz di7 isz ei7 isz fi7 isz gi7 isz ai7 isz hi7 isz pau isz cn3 icw ci3 ipo;
